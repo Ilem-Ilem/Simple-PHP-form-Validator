@@ -14,9 +14,7 @@ A comprehensive PHP validation library with support for basic validation, string
 
 ## Installation
 
-```bash
-composer require ilem/validator
-```
+download and move the src to your project folder
 ## Basic Usage
 
 ```php
