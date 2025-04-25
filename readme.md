@@ -159,7 +159,6 @@ Then use your custom validator:
 ```php
 $validator = new CustomValidator();
 $validator->validate('email')->isEmail()->storeSafe(); // Will use your custom email error
-New chat
 ```
 
 ## Other Functions
